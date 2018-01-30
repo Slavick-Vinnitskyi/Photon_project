@@ -1,0 +1,10 @@
+
+{
+"repository": {
+  "type": "git",
+  "url": "git://github.com/mysqljs/mysql.git"
+},
+  "name": "my-super-amazing-app",
+  "version": "1.0.0",
+  "private": true
+}
